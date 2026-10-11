@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "minicbor",
+  "versions": [
+    {
+      "commit": "620fa37031e0817264264f4e5fec574d37f14a75",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:40:38.716840+00:00"
+    }
+  ]
+}
